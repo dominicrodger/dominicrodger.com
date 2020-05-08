@@ -1,6 +1,5 @@
 ---
 date: 2011-01-11 00:00:00+00:00
-draft: false
 title: Test-Driven Development with Django & South
 ---
 
