@@ -1,3 +1,4 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://www.dominicrodger.com/"
+languageCode = "en-gb"
+title = "Dominic Rodger"
+theme = "noteworthy"
