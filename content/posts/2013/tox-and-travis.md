@@ -2,6 +2,7 @@
 date: 2013-07-26 06:20:00+00:00
 title: Easy testing with Travis and tox
 slug: tox-and-travis
+tags: [python, testing, ci]
 ---
 
 I love [tox](http://tox.readthedocs.org/en/latest/) - it's a great

@@ -2,6 +2,7 @@
 date: 2013-05-20 16:50:00+00:00
 title: Using code coverage to find bugs
 slug: coverage
+tags: [testing, learning]
 ---
 
 Yesterday, I found two bugs whilst looking at a code coverage report.

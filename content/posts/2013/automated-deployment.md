@@ -2,6 +2,7 @@
 date: 2013-02-03 20:43:00+00:00
 title: Automated Deployment of Django Sites
 slug: automated-deployment
+tags: [django, deployment]
 ---
 
 I tried out [Fabric](http://fabfile.org) a while ago, but never

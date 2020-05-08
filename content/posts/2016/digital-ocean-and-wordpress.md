@@ -2,6 +2,7 @@
 date: 2016-01-04 19:50:43+00:00
 title: Setting up Digital Ocean to run WordPress
 slug: digital-ocean-and-wordpress
+tags: [wordpress, digitalocean, deployment]
 ---
 
 I've recently started launching WordPress sites - starting with

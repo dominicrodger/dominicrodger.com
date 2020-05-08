@@ -1,6 +1,7 @@
 ---
 date: 2012-04-07 08:39:00+00:00
 title: Starting with Pelican
+tags: [blog-rewrite]
 ---
 
 In about 1998, I was building a website for a friend. The site was

@@ -2,6 +2,7 @@
 date: 2014-01-19 18:09:00+00:00
 title: Firefox & Bootstrap 3 Glyphicons
 slug: firefox-bs3-glyphicons
+tags: [webdev]
 ---
 
 I'm currently working on a site which uses Bootstrap 3, and makes

@@ -1,6 +1,7 @@
 ---
 date: 2012-04-29 11:27:00+00:00
 title: Travis, You Are Awesome
+tags: [ci]
 ---
 
 I came across [Travis CI](http://travis-ci.org) this week, and it's

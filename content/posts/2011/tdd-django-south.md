@@ -1,6 +1,7 @@
 ---
 date: 2011-01-11 00:00:00+00:00
 title: Test-Driven Development with Django & South
+tags: [testing]
 ---
 
 I'd basically given up on attempting test-driven with Django, given

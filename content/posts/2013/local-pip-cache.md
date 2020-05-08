@@ -2,6 +2,7 @@
 date: 2013-03-11 22:47:00+00:00
 title: Using a local cache for pip packages
 slug: local-pip-cache
+tags: [python]
 ---
 
 I do a lot of development without an internet connection[^1], so

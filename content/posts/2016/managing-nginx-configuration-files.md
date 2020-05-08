@@ -2,6 +2,7 @@
 date: 2016-01-22 21:12:40+00:00
 title: Managing nginx configuration files
 slug: managing-nginx-configuration-files
+tags: [digitalocean, deployment]
 ---
 
 I run [quite a few websites](https://www.dominicrodger.com/about/)

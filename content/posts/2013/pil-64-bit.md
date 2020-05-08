@@ -2,6 +2,7 @@
 date: 2013-04-21 20:30:00+00:00
 title: Installing PIL on 64-bit Ubuntu
 slug: pil-64-bit
+tags: [ubuntu]
 ---
 
 I've just got a new laptop, and wanted to avoid messing around with

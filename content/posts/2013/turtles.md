@@ -2,6 +2,7 @@
 date: 2013-05-01 19:19:00+00:00
 title: Turtles all the way down
 slug: turtles
+tags: [learning]
 ---
 
 One of the programming lessons I find myself re-learning again and

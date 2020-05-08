@@ -1,6 +1,7 @@
 ---
 date: 2012-06-10 06:11:00+00:00
 title: Faster Django Tests
+tags: [django, testing]
 ---
 
 A [long while

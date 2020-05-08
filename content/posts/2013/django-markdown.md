@@ -2,6 +2,7 @@
 date: 2013-01-16 18:48:00+00:00
 title: Supporting Markdown in upcoming Django releases
 slug: django-markdown
+tags: [django]
 ---
 
 [Upcoming releases of

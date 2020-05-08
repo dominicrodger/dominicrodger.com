@@ -1,6 +1,7 @@
 ---
 title: "On Library Closures"
 date: 2019-01-09T09:31:33+00:00
+tags: [parenting]
 ---
 
 Our local library, a short walk from our house, is closing. The local

@@ -2,6 +2,7 @@
 date: 2016-01-14 22:25:11+00:00
 title: nginx & letsencrypt.sh
 slug: nginx-letsencrypt-sh
+tags: [deployment, letsencrypt]
 ---
 
 I've started using [Let's Encrypt](https://letsencrypt.org/) a

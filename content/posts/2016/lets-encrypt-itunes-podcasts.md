@@ -2,6 +2,7 @@
 date: 2016-02-29 06:56:51+00:00
 title: Let's Encrypt & iTunes podcasts
 slug: lets-encrypt-itunes-podcasts
+tags: [letsencrypt]
 ---
 
 **Update (April 2018):** Apple appear to have fixed this in late

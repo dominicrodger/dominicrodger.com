@@ -2,6 +2,7 @@
 date: 2012-07-05 16:20:00+00:00
 title: Avoiding database queries with Haystack
 slug: order-n-haystack
+tags: [django]
 ---
 
 ## Order(n) is a pretty bad idea.

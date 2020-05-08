@@ -2,6 +2,7 @@
 date: 2014-06-14 20:52:00+00:00
 title: Prototyping with staticjinja
 slug: staticjinja
+tags: [python]
 ---
 
 I've started building a website for a friend of mine, who works for
@@ -29,7 +30,6 @@ and came across
 It didn't quite do what I wanted, so I wrote [a few
 patches](https://github.com/Ceasar/staticjinja/commits?author=dominicrodger)
 for it:
-
 
 
 1. Added support for static files (which now get copied from a source

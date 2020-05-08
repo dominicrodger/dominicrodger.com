@@ -2,6 +2,7 @@
 date: 2013-03-30 10:32:00+00:00
 title: Bulk Upgrading Django Sites
 slug: upgrading-django
+tags: [django]
 ---
 
 A [new version of

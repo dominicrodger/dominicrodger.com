@@ -2,6 +2,7 @@
 date: 2012-12-26 20:09:00+00:00
 title: Forays into Responsive Design
 slug: responsive-beginnings
+tags: [django, bootstrap]
 ---
 
 A good friend of mine alters cards for _Magic: The Gathering_ for fun

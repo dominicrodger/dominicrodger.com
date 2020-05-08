@@ -1,6 +1,7 @@
 ---
 date: 2016-01-01 15:58:26+00:00
 title: Moving away from Cloudflare
+tags: [deployment]
 ---
 
 I was a very happy user of [Cloudflare](https://www.cloudflare.com/)

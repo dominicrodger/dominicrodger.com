@@ -2,6 +2,7 @@
 date: 2015-04-14 06:00:00+00:00
 title: Travis and tox revisited
 slug: tox-and-travis-revisited
+tags: [testing, ci]
 ---
 
 Two years on, and I still love the combination of

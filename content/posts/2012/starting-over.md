@@ -1,6 +1,7 @@
 ---
 date: 2012-04-07 06:58:00+00:00
 title: Starting Over
+tags: [django, learning]
 ---
 
 Every once in a while, I want to start again.
