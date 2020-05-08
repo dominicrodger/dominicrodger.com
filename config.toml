@@ -2,3 +2,6 @@ baseURL = "https://www.dominicrodger.com/"
 languageCode = "en-gb"
 title = "Dominic Rodger"
 theme = "noteworthy"
+
+[permalinks]
+posts = "/:year/:month/:day/:slug/"
