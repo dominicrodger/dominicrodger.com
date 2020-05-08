@@ -45,10 +45,10 @@ for the tip about Pelican - it's been pretty straightforward so far.
 
 The only changes I've really made to Pelican are to the CSS ([fixing
 up the code
-style](https://github.com/dominicrodger/dominicrodger.com/commit/61e81d568087a92e2bb41dc619966075566fb81e),
+style](https://github.com/dominicrodger/dominicrodger.com.old/commit/61e81d568087a92e2bb41dc619966075566fb81e),
 because I don't much like the default monospace font, and [modifying
 the footnote link
-style](https://github.com/dominicrodger/dominicrodger.com/commit/54d99084c8b6777cd77c31fe1157718fc1a612b7)). I
+style](https://github.com/dominicrodger/dominicrodger.com.old/commit/54d99084c8b6777cd77c31fe1157718fc1a612b7)). I
 did that by just copying the default theme into my directory (which
 I've called `plagiarism`), and modifying my call to re-compile my
 blog to:
@@ -75,7 +75,7 @@ output directory.
 
 I've added a cron job to my WebFaction account which just pulls from
 my public GitHub repository, so any changes I push to
-[GitHub](https://github.com/dominicrodger/dominicrodger.com) get
+[GitHub](https://github.com/dominicrodger/dominicrodger.com.old) get
 deployed to the site without any intervention.
 
 [^1]: Sort of, anyway - I'm using an auto-refresh extension in
