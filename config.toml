@@ -1,7 +1,11 @@
 baseURL = "https://www.dominicrodger.com/"
 languageCode = "en-gb"
 title = "Dominic Rodger"
-theme = "noteworthy"
+theme = "hyde"
+
+[params]
+  description = " "
+  themeColor = "theme-base-0e"
 
 [permalinks]
 posts = "/:year/:month/:day/:slug/"
