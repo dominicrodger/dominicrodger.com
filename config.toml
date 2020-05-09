@@ -1,7 +1,7 @@
 baseURL = "https://www.dominicrodger.com/"
 languageCode = "en-gb"
 title = "Dominic Rodger"
-theme = "hyde"
+theme = "noteworthy"
 
 [params]
   description = " "
