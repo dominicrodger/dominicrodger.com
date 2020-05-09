@@ -5,6 +5,14 @@
   {{ range .Site.Menus.main }}
     <a class="color-link nav-link" href="{{ .URL | relLangURL }}">{{ .Name }}</a>
   {{ end }}
+
+  <h2>Tags</h2>
+  {{ range .Site.Taxonomies.tags }}
+    <a class="color-link nav-link" href="{{ .Page.Permalink }}">#{{ .Page.Title }}</a>
+  {{ end }}
+
+  <hr />
+
   <a class="color-link nav-link" href="{{ .Site.RSSLink }}" target="_blank" rel="noopener" type="application/rss+xml">RSS</a>
 </div>
 {{ partial "footer.html" . }}
