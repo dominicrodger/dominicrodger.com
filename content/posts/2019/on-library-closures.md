@@ -4,11 +4,19 @@ date: 2019-01-09T09:31:33+00:00
 tags: [parenting]
 ---
 
-Our local library, a short walk from our house, is closing. The local
+### Update (July 2019)
+
+Essex County Council committed in July 2019 to not closing any
+libraries in Essex until at least 2024, see [this news
+story](https://www.essexlive.news/news/essex-news/essex-county-council-issue-new-3071889).
+
+---
+
+*Our local library, a short walk from our house, is closing. The local
 council is soliciting feedback, and at the end of a long series of
 questions there was a comments box. I thought I'd take the
 opportunity to write something. I imagine my words went into the
-void, so I'm sharing them here.
+void, so I'm sharing them here.*
 
 ---
 
