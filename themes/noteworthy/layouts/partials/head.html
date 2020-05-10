@@ -5,7 +5,7 @@
     <meta name="format-detection" content="telephone=no"/>
 
     <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
-    <!-- Icons -->
+
     <link rel="apple-touch-icon" sizes="180x180" href="{{ "apple-touch-icon.png" | relURL }}">
     <link rel="icon" type="image/png" sizes="32x32" href="{{ "favicon-32x32.png" | relURL }}">
     <link rel="icon" type="image/png" sizes="16x16" href="{{ "favicon-16x16.png" | relURL }}">
@@ -14,18 +14,9 @@
     <meta name="theme-color" content="#ffffff">
 
     <!-- Styles -->
-    <!-- Use Hugo Pipes to process the Sass file (convert to CSS, minify, and add a hash) -->
     {{ $main_style := resources.Get "css/main.scss" | toCSS | minify | fingerprint }}
     <link rel="stylesheet" href="{{ $main_style.Permalink }}"/>
 
-    <!-- Uncomment to add custom styles -->
-    <!-- Modify the custom.scss file inside assets > css to use scss -->
-    <!-- {{ $custom_style := resources.Get "css/custom.scss" | toCSS | minify | fingerprint }} 
-    <link rel="stylesheet" href="{{ $custom_style.Permalink }}"/> -->
-
-    <!-- Modify the custom.css file inside static > css to use vanilla css -->
-    <!-- <link type="text/css" rel="stylesheet" href="{{ "/" | relURL }}css/custom.css"> -->
- 
     {{ with .OutputFormats.Get "RSS" }}
     {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
     {{ end }}
