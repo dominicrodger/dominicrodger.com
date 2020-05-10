@@ -1,19 +1,26 @@
 <!-- Sidebar navigation -->
 <nav>
   {{ partial "header.html" . }}
-  <div class="nav-menu">
-  {{ range .Site.Menus.main }}
-    <a class="color-link nav-link" href="{{ .URL | relLangURL }}">{{ .Name }}</a>
-  {{ end }}
+  <ul class="nav-menu">
+    {{ range .Site.Menus.main }}
+    <li><a href="{{ .URL | relLangURL }}">{{ .Name }}</a></li>
+    {{ end }}
 
-  <h2>Tags</h2>
-  {{ range .Site.Taxonomies.tags }}
-    <a class="color-link nav-link" href="{{ .Page.Permalink }}">#{{ .Page.Title }}</a>
-  {{ end }}
+    <li>
+      <a href="{{ .Site.RSSLink }}" target="_blank" rel="noopener" type="application/rss+xml">RSS</a>
+    </li>
+  </ul>
 
-  <hr />
+  <div class="nav-tags">
+    <h2>Tags</h2>
+    <ul class="nav-menu">
+      {{ range .Site.Taxonomies.tags }}
+      <li>
+        <a href="{{ .Page.Permalink }}">#{{ .Page.Title }}</a>
+      </li>
+      {{ end }}
+    </ul>
+  </div>
 
-  <a class="color-link nav-link" href="{{ .Site.RSSLink }}" target="_blank" rel="noopener" type="application/rss+xml">RSS</a>
-</div>
 {{ partial "footer.html" . }}
 </nav>

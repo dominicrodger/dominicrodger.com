@@ -270,15 +270,22 @@ nav {
 }
 
 .nav-menu {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    flex-wrap: wrap;
+    list-style: none;
+    padding-left: 0;
+
+    a {
+        text-decoration: none;
+        color: $teal;
+        font-family: $sans-serif;
+        margin-bottom: 0.5em;
+        margin-right: 1.5em;
+    }
 }
 
-.nav-link {
-    margin-bottom: 0.5em;
+.nav-tags {
+    display: none;
 }
+
 
 .description {
     font-style: italic;
