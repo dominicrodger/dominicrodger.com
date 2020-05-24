@@ -1,8 +1,0 @@
-#!/bin/sh
-USER=deploy
-HOST=giraffatitan
-DIR=/var/www/dominicrodger.com
-
-hugo && rsync -avz --delete public/ ${USER}@${HOST}:${DIR}
-
-exit 0
